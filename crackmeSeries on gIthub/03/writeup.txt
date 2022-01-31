@@ -1,0 +1,9 @@
+Here we are prompted to input an Integer again
+Then the password is generated again the same way as before -> 338724 is the password
+
+but instead of directly comparing our input to this number a function is called in which it is compared.
+This function cmps the values and then calls a shift function with a string
+
+These two strings are either "valid password" or "incorrect password"
+the shift function has been rewritten. All it does is shift all characters 3 down so for example 'd' would become 'a'
+After identifing which output is what it is clear that 338724 is the password

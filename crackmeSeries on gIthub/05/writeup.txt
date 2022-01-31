@@ -1,0 +1,18 @@
+Here i have reversed the entire application so you have working code that does the same
+
+We are prompted to enter a string like in teh example before
+
+then the almost the same check function is called where the sum of the integers in our string are added.
+if the sum is equal to 16 at any point another function is called "parell"
+
+the parell function checks if the entire integer entered is even:
+
+	if (!(integer & 1))
+		printf("correct")
+	printf("false")
+
+examples:
+	- "5542" would work since teh numbers add up to 16 and the number in total is 16
+	- "5551" would pass teh first check equalling up to 16 but its not even so it would fail
+	- "22222222" would pass
+

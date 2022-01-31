@@ -1,0 +1,1 @@
+After loading the executable in IDA you directly see the your input being compared to an Integer: "5274" which is incidently the password

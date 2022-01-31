@@ -1,0 +1,5 @@
+Again we are prompted with and Integer as Input.
+This is also compared to another integer which is being created from the starting values "90" and "492":
+	- First both values are added together: 90 + 492 = 582
+	- This value is then taken to the power of 2: 582 ^ 2 = 338724
+The value 338724 is the Password

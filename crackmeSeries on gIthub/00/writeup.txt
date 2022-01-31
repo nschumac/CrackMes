@@ -1,0 +1,1 @@
+After loading the the executable in IDA the password is directly visible : "250382"

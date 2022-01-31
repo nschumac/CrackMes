@@ -1,0 +1,8 @@
+Here we are prompted to entera  string but be careful as this string should only use integers
+
+then a check function is called with our input as the argument
+This check function then goes through our string and adds up all the numbers in it.
+If the sum at any point is equal to 15 the password is correct.
+
+for example: "555" but also "5551" would be correct since it would jump out of the loop before adding the one
+"556" would be incorrect as the sum would total 16 and once the whole string has been gone through it prints "Password incorrect" and exits
