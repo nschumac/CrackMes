@@ -1,5 +1,5 @@
 # CrackMes
-A cumulation of crackmes i have managed to crack using static analysis with the Help of IDA
+A cumulation of crackmes i have managed to crack using static analysis (in IDA).
 I am by no means good but its a fun hobby :D
 
 Websites:
